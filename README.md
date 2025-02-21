@@ -10,4 +10,4 @@ Acessando o código
 
 Para acessar o código referente às aulas, clique no seletor main do repositório e selecione a aula desejada.
 Notas e créditos
-Feito por Henrique aluno da escola rosilda no parana
+Feito por Henrique aluno do Colegio Matias Jacomel no parana
